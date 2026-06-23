@@ -1,0 +1,21 @@
+Project: Smart Warehouse Automation
+
+Date: 10 June 2026
+
+Attendees:
+Warehouse Manager
+Operations Lead
+Business Analyst
+Systems Engineer
+
+Discussion:
+
+The warehouse team requires real-time inventory visibility.
+
+Low stock alerts should be generated automatically when inventory falls below predefined thresholds.
+
+Only supervisors and managers should be authorised to approve stock adjustments.
+
+Reports should be generated weekly and emailed to operations management.
+
+Barcode scanning should update inventory immediately.
